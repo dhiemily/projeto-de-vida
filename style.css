@@ -3,11 +3,11 @@ url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=
 
 :root { 
 --cor-de-fundo: #4e0351; 
---lilas: #f1b8e7c9; 
---branco: #FFFFFF; 
---botao-ativo: #6d086ae7; 
+--lilas: #d965f0c9; 
+--branco: #c098ff; 
+--botao-ativo: #d8a1f8e7; 
 --botao-inativo: rgba(181, 20, 181, 0.5); 
---texto-fundo: rgba(226, 102, 195, 0.853);
+--texto-fundo: rgba(88, 15, 170, 0.853);
 }
 
 body { 
